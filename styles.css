@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: yellow;
+  color: black;
+  padding: 10px;
+}
+
+header a {
+  color: black;
+  text-decoration: none;
+  margin-right: 30px;
+  font-weight: bold;
+}
+
+header a:hover {
+  color: #ccc;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  margin: 0;
+  margin-bottom: 30px;
+}
+
+h2 {
+  margin-top: 30px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  border: 5px solid #333;
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 5px;
+  border: 1px solid #333;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  margin-top: 50px;
+}
+#site-bar {
+  background-color: black;
+}
+
+#highlight {
+  color: blue;
+}
+
+.second-para {
+  background-color: blue;
+}
+
+input[type="text"] {
+  background-color: aqua;
+}
+
+p {
+  font-family: "Verdana", sans-serif; 
+  
+}
